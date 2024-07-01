@@ -1,2 +1,3 @@
 # My-learning-at-YBI-Foundation
-My projects
+i am learning at YBI Foundation
+Business Analytics
